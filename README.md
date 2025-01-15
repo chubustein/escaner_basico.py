@@ -1,2 +1,1 @@
-Escaneo basico que hice en python para practicar
-<3
+Escaneo basico que hice en python para practicar <3
